@@ -1,0 +1,5 @@
+Selectable schemas
+Heavier text processing
+Conversion flags
+Changeable output directory
+Embedded, fallback schema
