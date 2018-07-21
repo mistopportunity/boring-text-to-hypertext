@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boring-text-to-hypertext", "boring-text-to-hypertext\boring-text-to-hypertext.csproj", "{5F4E2C56-5F62-434B-83E5-A191773DACE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoringTextToHypertext", "boring-text-to-hypertext\BoringTextToHypertext.csproj", "{5F4E2C56-5F62-434B-83E5-A191773DACE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
